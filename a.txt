@@ -1,2 +1,2 @@
-My first a.txt
+My first text file
 my second line
