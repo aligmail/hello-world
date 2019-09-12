@@ -2,3 +2,6 @@ my first a.txt
 my 2nd file
 =======
 My first a.txt
+=======
+My first text file
+my second line
