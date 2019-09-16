@@ -22,7 +22,7 @@ pipeline{
             }
             steps {
                 echo "Hello, ${PERSON}, nice to meet you."
-				build 'BuildMe'
+				build job: 'BuildMe', parameters: [string(name: 'Environment', value: 'GB')]
             }
         }
 	}
