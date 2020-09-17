@@ -1,3 +1,0 @@
-my first a.txt
-my 2nd file
-my 3rd line
